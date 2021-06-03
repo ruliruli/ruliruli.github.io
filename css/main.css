@@ -1,0 +1,28 @@
+body{
+    font-family: 궁서;
+    background-color: gold;
+}
+h1,h2 {
+    font-weight: normal;
+    text-decoration: blink;
+}
+h1{
+    font-family: 바탕;
+    color: maroon;
+    border-bottom: 1px solid mediumaquamarine;
+}
+p{
+    color: rgb(226, 174, 96);
+}
+h2.site {
+    color: cadetblue;
+}
+a:link {
+    color: rgb(57, 160, 71);
+}
+a:visited {
+    color: rgb(153, 51, 51);
+}
+a:hover {
+    color: salmon;
+}
